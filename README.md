@@ -68,13 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-yesp.....there you go... pretty cool, yeah?
-you need to be careful sometimes so you aren't writing on the same line as someone else but its a good way to collab.  Do you want to see if this is a working app?  I think i
-I think it is working properly. You would need to start by installing npm 
-what does it say?yeah....I just thought of that. so, ideally, we would be using the same project that we got
-from github or something. then we wouldbe on the same page.what happens if you save?  !Yes! a repotry this....
-1 sec
+OK
+so, youll want to know this little tidbit and it will open up a HUGE door to being able to 
+mess with other peoples projects on github. I'm going to actually walk you through the whole thing. go to this link
+https://github.com/ins1d30ut/TaskList  <----
+look at my screen share for a second....well. this is what you're going to do. You are going to clone this repo
 
-ok sweet. impressive. ok. not sure to be honest
-ok yes. I see it but rooting from your drive. ok I see yes
-repository?
+
+ok I see your files now. Task list, public etc..
+I was not in the right tab
+ok yes, I am logged in and everything. see your repo
